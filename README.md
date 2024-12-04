@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student.<br>🌱 I’m learning C#, Machine Learning, and Python.<br>⚡ Fun fact: Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
+🔭 I’m currently a student (Electronics and Information Technology).<br>🌱 I’m learning C#, Machine Learning, and Python.<br>⚡ Fun fact: Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
 
 
 # 💻 Tech Stack:
