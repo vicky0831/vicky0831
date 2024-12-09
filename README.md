@@ -7,9 +7,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vicky0831&show_icons=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vicky0831&theme=tokyonight&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky0831&layout=compact&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vicky0831&show_icons=true&theme=radical)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vicky0831&theme=tokyonight&hide_border=false)<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky0831&layout=compact&theme=radical)<br/><br/>
 
 
 ### ✍️ Random Dev Quote
